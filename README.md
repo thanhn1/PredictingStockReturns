@@ -9,3 +9,6 @@ Predicting stock returns is exciting but extremely challenging. In this project,
 - Presentation (to be added)
 3. Notebooks
 - [Data wrangling and exploratory data analysis (ZION)](https://nbviewer.jupyter.org/github/thanhn1/PredictingStockReturns/blob/main/notebooks/Analysis_for_ZION_part1.ipynb)
+- [Modeling (ZION)](https://nbviewer.jupyter.org/github/thanhn1/PredictingStockReturns/blob/main/notebooks/Analysis_for_ZION_part2.ipynb)
+- [Data wrangling and exploratory data analysis (FITB)](https://nbviewer.jupyter.org/github/thanhn1/PredictingStockReturns/blob/main/notebooks/Analysis_for_FITB_part1.ipynb)
+- [Modeling (FITB)](https://nbviewer.jupyter.org/github/thanhn1/PredictingStockReturns/blob/main/notebooks/Analysis_for_FITB_part2.ipynb)
