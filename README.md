@@ -5,4 +5,7 @@ Predicting stock returns is exciting but extremely challenging. In this project,
 1. Data Source
 - [Nasdaq Data Link, Wiki Prices database](https://data.nasdaq.com/)
 2. Documents
-- [Final Report]This report contains detailed information about data source, exploratory data analysis, modeling, and performance evaluation. 
+- [Final Report](https://github.com/thanhn1/PredictingStockReturns/blob/main/documents/Capstone%20three%20report.pdf) This report contains detailed information about data source, exploratory data analysis, modeling, and performance evaluation.
+- Presentation (to be added)
+3. Notebooks
+- [Data wrangling and exploratory data analysis (ZION)](nbviewer.jupyter.org/github/thanhn1/PredictingStockReturns/blob/main/notebooks/Analysis_for_ZION_part1.ipynb)
